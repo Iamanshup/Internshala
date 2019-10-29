@@ -27,7 +27,7 @@ $employerEmail = $_SESSION['email'];
 		</div>
 	</header><br>
 
-	<table align="center" cellpadding="5px" cellspacing="1px" border="1">
+	<table align="center" cellpadding="4px" cellspacing="1px" border="1">
 		<tr>
 			<td align="center" style="background: #1AA8BA; color: #ffffff">Name</td>
 			<td align="center" style="background: #1AA8BA; color: #ffffff">Email</td>
